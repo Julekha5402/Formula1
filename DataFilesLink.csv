@@ -1,0 +1,9 @@
+﻿BaseURL,FileName
+https://raw.githubusercontent.com/Julekha5402/Formula1/refs/heads/main/circuits.csv,Circuits
+https://raw.githubusercontent.com/Julekha5402/Formula1/refs/heads/main/constructors.csv,Constructors
+https://raw.githubusercontent.com/Julekha5402/Formula1/refs/heads/main/drivers.csv,Drivers
+https://raw.githubusercontent.com/Julekha5402/Formula1/refs/heads/main/lap_times.csv,lap_times
+https://raw.githubusercontent.com/Julekha5402/Formula1/refs/heads/main/pit_stops.csv,pit_stops
+https://raw.githubusercontent.com/Julekha5402/Formula1/refs/heads/main/qualifying.csv,qualifying
+https://raw.githubusercontent.com/Julekha5402/Formula1/refs/heads/main/races.csv,races
+https://raw.githubusercontent.com/Julekha5402/Formula1/refs/heads/main/results.csv,results
